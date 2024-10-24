@@ -8,6 +8,6 @@ This is a Twitter Clone application built with Node.js, Express, and MongoDB on 
 
 ```bash
 
-git clone <[your-repo-url](https://github.com/yashje/Twitter_Clone)>
+git clone https://github.com/yashje/Twitter_Clone
 
 cd twitter_clone
